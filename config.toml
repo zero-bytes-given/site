@@ -3,8 +3,8 @@ baseURL = "https://zerobytesgiven.com/"
 title = "Zero Bytes Given"
 
 [[module.mounts]]
-source = “assets”
-target = “assets”
+source = "assets"
+target = "assets"
 
 enableRobotsTXT = true
 
