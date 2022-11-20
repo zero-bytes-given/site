@@ -2,6 +2,10 @@ languageCode = 'en-us'
 baseURL = "https://zerobytesgiven.com/"
 title = "Zero Bytes Given"
 
+[module]
+[[module.imports]]
+  path = 'github.com/google/docsy'
+
 enableRobotsTXT = true
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
