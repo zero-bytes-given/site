@@ -2,10 +2,6 @@ languageCode = 'en-us'
 baseURL = "https://zerobytesgiven.com/"
 title = "Zero Bytes Given"
 
- [[module.mounts]]
-source = “assets”
-target = “assets”
-
 enableRobotsTXT = true
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
