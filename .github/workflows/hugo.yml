@@ -46,6 +46,8 @@ jobs:
           submodules: recursive
       - name: Install npm modules
         run: |
+          ls -la
+          ls -la /home/runner/work/site/site
           npm i
       - name: Setup Pages
         id: pages

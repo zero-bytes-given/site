@@ -1,7 +1,7 @@
 {
-  "name": "probr-hugo",
+  "name": "zbg-hugo",
   "version": "0.1.0",
-  "description": "Documentation for Probr.",
+  "description": "Site for Zero Bytes Given.",
   "dependencies": {},
   "devDependencies": {
     "autoprefixer": "^10.4.0",
