@@ -49,6 +49,7 @@ jobs:
           ls -la
           ls -la /home/runner/work/site/site
           ls -la /home/runner/work/site/site/themes
+          ls -la /home/runner/work/site/site/themes/docsy
           npm i
       - name: Setup Pages
         id: pages
