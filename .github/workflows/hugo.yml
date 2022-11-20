@@ -30,7 +30,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.102.3
+      HUGO_VERSION: 0.105.0
     steps:
       - name: Setup npm
         uses: actions/setup-node@v2
@@ -46,10 +46,6 @@ jobs:
           submodules: recursive
       - name: Install npm modules
         run: |
-          ls -la
-          ls -la /home/runner/work/site/site
-          ls -la /home/runner/work/site/site/themes
-          ls -la /home/runner/work/site/site/themes/docsy
           npm i
       - name: Setup Pages
         id: pages
