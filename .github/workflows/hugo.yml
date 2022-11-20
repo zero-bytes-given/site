@@ -38,6 +38,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - name: Install npm modules
         run: |
+          ls -la
           npm i
       - name: Install Hugo CLI
         run: |
