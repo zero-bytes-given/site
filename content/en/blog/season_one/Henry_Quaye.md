@@ -11,4 +11,5 @@ description: >
 
 ---
 
-Henry Quay made his name in Open Source in an unconventional manner while he was in high school. After cutting his teeth working in cybersecurity at Microsoft, he now works at the Linux Foundation helping create LFX.
+Henry Quaye cut his teeth working in cybersecurity at Microsoft, and he now works at the Linux Foundation helping create LFX.
+
