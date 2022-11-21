@@ -10,3 +10,7 @@ $secondary: #39ff14;
 $enable-gradients: false;
 $enable-rounded: true;
 $enable-shadows: false;
+
+.btn-secondary {
+    color: $primary !important;
+}
