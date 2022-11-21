@@ -14,7 +14,7 @@
                 <hr/>
                 <div class="d-flex">
                   {{ range .Pages }}
-                    <div class="card -bg-800" style="width: 18rem;">
+                    <div class="card -bg-800" style="width: 18rem;padding:10px;">
                         <div class="card-body">
                             <h3 class="card-title">{{ .Title }}</h3>
                             <p class="mb-2 mb-md-3"><small class="text-muted">{{ .Date.Format ($.Param "time_format_blog") }}</small></p>

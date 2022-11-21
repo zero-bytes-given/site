@@ -2,7 +2,7 @@
 ---
 title: "Vincent Danen"
 linkTitle: "#2 - Vincent Danen"
-date: 2022-11-14
+date: 2022-11-21
 description: > 
   Episode 1
 ---
@@ -17,9 +17,9 @@ Check out Vincent's social links:
 
 <div class="col-md-6">
     <div class="row">
-        <a href="https://linkedin.com/in/vdanen/"><i class="fab fa-linkedin-in" style="font-size: 2rem;padding:5px;"></i></a>
-        <a href="https://https://twitter.com/vdanen"><i class="fab fa-twitter" style="font-size: 2rem;padding:5px;"></i></a>
-        <a href="https://annvix.com/"><i class="fab fa-readme" style="font-size: 2rem;padding:5px;"></i></a>
+        <a href="https://linkedin.com/in/vdanen/"><i class="fab fa-linkedin-in" style="font-size: 2rem;padding:10px;"></i></a>
+        <a href="https://twitter.com/vdanen"><i class="fab fa-twitter" style="font-size: 2rem;padding:10px;"></i></a>
+        <a href="https://annvix.com/"><i class="fab fa-readme" style="font-size: 2rem;padding:10px;"></i></a>
     </div>
 </div>
 
