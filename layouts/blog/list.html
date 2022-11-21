@@ -12,7 +12,8 @@
 			{{ range $pag.PageGroups }}
                 <h2>All {{ .Key }} Episodes</h2>
                 <hr/>
-                {{ range .Pages }}
+                <div class="d-flex">
+                  {{ range .Pages }}
                     <div class="card -bg-800" style="width: 18rem;">
                         <div class="card-body">
                             <h3 class="card-title">{{ .Title }}</h3>
@@ -28,7 +29,8 @@
                             <p class="pt-0"><a class="btn btn-lg btn-secondary mr-3 mb-4" href="{{ .RelPermalink }}" aria-label="{{ T "ui_read_more"}} - {{ .LinkTitle }}">Listen<i class="fas fa-arrow-alt-circle-right ml-2"></i></a></p>
                         </div>
                     </div>
-                {{ end }}
+                  {{ end }}
+                </div>
 			{{ end }}
 		{{ end }}
 	</div>

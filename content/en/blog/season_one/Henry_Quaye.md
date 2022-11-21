@@ -17,8 +17,14 @@ Check out LFX, and Henry's social links:
 
 <div class="col-md-6">
     <div class="row">
-      <a href="https://lfx.linuxfoundation.org/"><img src="/images/LFX-logo.svg"></a>
-      <a href="https://linkedin.com/in/vdanen/"><i class="fab fa-linkedin-in"></i></a> 
-      <a href="https://https://twitter.com/vdanen"><i class="fab fa-twitter"></i></a> 
+      <a href="https://lfx.linuxfoundation.org/"><img src="/images/LFX-logo.svg" style="font-size: 2rem;padding:5px;"></a>
+      <a href="https://linkedin.com/in/vdanen/"><i class="fab fa-linkedin-in" style="font-size: 2rem;padding:5px;"></i></a> 
+      <a href="https://https://twitter.com/vdanen"><i class="fab fa-twitter" style="font-size: 2rem;padding:5px;"></i></a> 
   </div>
 </div>
+
+---
+
+<img src="/images/guests/henry_quaye.jpg" max-width="90%">
+
+---
