@@ -1,7 +1,7 @@
 
 ---
-title: "Henry Quaye"
-linkTitle: "#1 - Henry Quaye"
+title: "Vincent Danen"
+linkTitle: "#2 - Vincent Danen"
 date: 2022-11-14
 description: > 
   Episode 1
@@ -11,12 +11,12 @@ description: >
 
 ---
 
-Henry Quaye had an early career in cybersecurity at Microsoft, and is now a key player in the development of tools from the Linux Foundation that streamline efforts from organizations and individuals contributing to open source software.
+Vincent Danen once created a widely used secure Linux Distro, and built up years of experience in similar roles. He now leads Product Security efforts at Red Hat, creating effective environments for securely developing some of the most widely used enterprised open source software.
 
-Check out LFX, and Henry's social links:
+Check out Vincent's social links:
 
 <div class="row">
-    <a href="https://lfx.linuxfoundation.org/"><img src="/images/LFX-logo.svg"></a>
     <a href="https://linkedin.com/in/vdanen/"><i class="fab fa-linkedin-in"></i></a> 
     <a href="https://https://twitter.com/vdanen"><i class="fab fa-twitter"></i></a> 
+    <a href="https://annvix.com/"><i class="fab fa-newspaper-o"></i></a> 
 </div>
