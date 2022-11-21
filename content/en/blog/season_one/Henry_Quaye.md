@@ -1,7 +1,7 @@
 
 ---
-title: "Henry Quay"
-linkTitle: "#1 - Henry Quay"
+title: "Henry Quaye"
+linkTitle: "#1 - Henry Quaye"
 date: 2022-11-14
 description: > 
   Episode 1
@@ -11,5 +11,5 @@ description: >
 
 ---
 
-Henry Quaye cut his teeth working in cybersecurity at Microsoft, and he now works at the Linux Foundation helping create LFX.
+Henry Quaye had an early career in cybersecurity at Microsoft, and is now a key player in the development of tools from the Linux Foundation that streamline efforts from organizations and individuals contributing to open source software.
 
