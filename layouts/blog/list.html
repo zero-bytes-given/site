@@ -15,7 +15,7 @@
                 <div class="d-flex flex-wrap">
                   {{ range .Pages }}
                     <div class="col-12 col-md-6 col-xl-4">
-                        <div class="card-body card -bg-800" style="margin:5px;">
+                        <div class="card-body card -bg-800" style="margin-top:5px;">
                             <h3 class="card-title">{{ .Title }}</h3>
                             <p class="mb-2 mb-md-3"><small class="text-muted">{{ .Date.Format ($.Param "time_format_blog") }}</small></p>
                             {{ partial "featured-image.html" (dict "p" . "w" 250 "h" 125 "class" "float-left mr-3 pt-1 d-none d-md-block") }}
