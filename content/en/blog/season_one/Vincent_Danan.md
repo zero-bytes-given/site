@@ -7,7 +7,7 @@ description: >
   Episode 1
 ---
 
-<iframe src="https://open.spotify.com/embed/episode/6yLHTSk8lIaNmHONzrVpjD?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+## Placeholder For Audio Player
 
 ---
 
@@ -15,8 +15,10 @@ Vincent Danen once created a widely used secure Linux Distro, and built up years
 
 Check out Vincent's social links:
 
-<div class="row">
-    <a href="https://linkedin.com/in/vdanen/"><i class="fab fa-linkedin-in"></i></a> 
-    <a href="https://https://twitter.com/vdanen"><i class="fab fa-twitter"></i></a> 
-    <a href="https://annvix.com/"><i class="fab fa-newspaper-o"></i></a> 
+<div class="col-md-6">
+    <div class="row">
+        <div><a href="https://linkedin.com/in/vdanen/"><i class="fab fa-linkedin-in"></i></a></div>
+        <div><a href="https://https://twitter.com/vdanen"><i class="fab fa-twitter"></i></a></div>
+        <div><a href="https://annvix.com/"><i class="fab fa-newspaper-o"></i></a></div>
+    </div>
 </div>

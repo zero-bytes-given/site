@@ -15,8 +15,10 @@ Henry Quaye had an early career in cybersecurity at Microsoft, and is now a key 
 
 Check out LFX, and Henry's social links:
 
-<div class="row">
-    <a href="https://lfx.linuxfoundation.org/"><img src="/images/LFX-logo.svg"></a>
-    <a href="https://linkedin.com/in/vdanen/"><i class="fab fa-linkedin-in"></i></a> 
-    <a href="https://https://twitter.com/vdanen"><i class="fab fa-twitter"></i></a> 
+<div class="col-md-6">
+    <div class="row">
+      <a href="https://lfx.linuxfoundation.org/"><img src="/images/LFX-logo.svg"></a>
+      <a href="https://linkedin.com/in/vdanen/"><i class="fab fa-linkedin-in"></i></a> 
+      <a href="https://https://twitter.com/vdanen"><i class="fab fa-twitter"></i></a> 
+  </div>
 </div>
