@@ -5,6 +5,9 @@ linkTitle: "#3 - Taylor Dolezal"
 date: 2022-11-28
 description: > 
   Episode 3
+images:
+  - /images/guests/taylor_dolezal.png
+  
 ---
 
 <iframe src="https://open.spotify.com/embed/episode/6zX7koV5TeLMbP1NzRZJXR?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
