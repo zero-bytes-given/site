@@ -25,6 +25,6 @@ Check out Vincent's social links:
 
 ---
 
-<img src="/images/guests/vincent_danen.jpg" max-width="90%">
+<img src="/images/guests/vincent_danen.jpg" width="90%">
 
 ---

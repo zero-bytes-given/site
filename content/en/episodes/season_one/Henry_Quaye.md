@@ -17,7 +17,7 @@ Check out LFX, and Henry's social links:
 
 <div class="col-md-6">
     <div class="row">
-      <a href="https://lfx.linuxfoundation.org/"><img src="/images/guests/LFX-logo.svg" style="font-size: 2rem;margin:10px;"></a>
+      <a href="https://lfx.linuxfoundation.org/"><img src="/images/guests/logo-LFX.svg" style="font-size: 2rem;margin:10px;"></a>
       <a href="https://linkedin.com/in/vdanen/"><i class="fab fa-linkedin-in" style="font-size: 2rem;margin:10px;"></i></a> 
       <a href="https://https://twitter.com/vdanen"><i class="fab fa-twitter" style="font-size: 2rem;margin:10px;"></i></a> 
   </div>
@@ -25,6 +25,6 @@ Check out LFX, and Henry's social links:
 
 ---
 
-<img src="/images/guests/henry_quaye.jpg" max-width="90%">
+<img src="/images/guests/henry_quaye.jpg" width="90%">
 
 ---
