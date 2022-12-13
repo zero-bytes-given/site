@@ -1,10 +1,10 @@
 
 ---
-title: "Jon Gottfried & Fiona Whittington"
+title: "Jon Gottfried and Fiona Whittington"
 linkTitle: "#5 - Jon & Fiona"
 date: 2022-12-12
 description: > 
-  Episode 5
+  Jon & Fiona from Major League Hacking share with us their stories of working in tech, starting successful nonprofits, and how they create effective paths for learners to start careers in technology.
 images:
   - /images/guests/logo-MLH.png
   

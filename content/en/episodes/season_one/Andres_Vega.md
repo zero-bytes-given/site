@@ -4,7 +4,7 @@ title: "Andres Vega"
 linkTitle: "#4 - Andres Vega"
 date: 2022-12-05
 description: > 
-  Episode 4
+  In this episode we hear about how Andres got involved in writing, how his organization does things like set up enterprise "red teams," and get peeks into the wisdom provided in the latest book: Investments Unlimited.
 images:
   - /images/guests/andres_vega.png
   

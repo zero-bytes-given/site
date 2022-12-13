@@ -4,7 +4,7 @@ title: "Taylor Dolezal"
 linkTitle: "#3 - Taylor Dolezal"
 date: 2022-11-28
 description: > 
-  Episode 3
+  Long before Taylor Dolezal became the head of the CNCF ecosystem, he led a massive technical revitalization for all of Disney Studios.
 images:
   - /images/guests/taylor_dolezal.png
   

@@ -4,7 +4,7 @@ title: "Vincent Danen"
 linkTitle: "#2 - Vincent Danen"
 date: 2022-11-21
 description: > 
-  Episode 2
+  Vincent Danen once created a widely used secure Linux Distro, and built up years of experience in similar roles. He now leads Product Security efforts at Red Hat, creating effective environments for securely developing some of the most widely used enterprise open source software.
 ---
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5rXvewsYxWbrl8E9zsj6TC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
