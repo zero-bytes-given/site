@@ -20,7 +20,7 @@ Check out Jonathan's social links:
 
 <div class="col-md-6">
     <div class="row">
-        <a href="linkedin.com/in/jonmarkgo/"><i class="fab fa-linkedin-in" style="font-size: 2rem;margin:10px;"></i></a>
+        <a href="https://linkedin.com/in/jonmarkgo/"><i class="fab fa-linkedin-in" style="font-size: 2rem;margin:10px;"></i></a>
         <a href="https://twitter.com/jonmarkgo"><i class="fab fa-twitter" style="font-size: 2rem;margin:10px;"></i></a>
     </div>
 </div>
@@ -35,7 +35,9 @@ Check out Fiona's social links:
 </div>
 
 ---
+
 <a href="https://mlh.io">
-    <img src="/images/guests/logo-MLH.png" width="90%">
+    <img src="/images/guests/logo-MLH.png" width="75%">
 </a>
+
 ---
