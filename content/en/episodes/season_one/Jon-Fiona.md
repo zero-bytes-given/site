@@ -16,21 +16,20 @@ images:
 
 Jon & Fiona from Major League Hacking share with us their stories of working in tech, starting successful nonprofits, and how they create effective paths for learners to start careers in technology. This hilarious episode is a great way to close out Season One!
 
-Check out Jonathan's social links:
-
-<div class="col-md-6">
-    <div class="row">
-        <a href="https://linkedin.com/in/jonmarkgo/"><i class="fab fa-linkedin-in" style="font-size: 2rem;margin:10px;"></i></a>
-        <a href="https://twitter.com/jonmarkgo"><i class="fab fa-twitter" style="font-size: 2rem;margin:10px;"></i></a>
+<div class="row">
+    <div class="col-md-6">
+        Check out Jonathan's social links:
+        <div class="row">
+            <a href="https://linkedin.com/in/jonmarkgo/"><i class="fab fa-linkedin-in" style="font-size: 2rem;margin:10px;"></i></a>
+            <a href="https://twitter.com/jonmarkgo"><i class="fab fa-twitter" style="font-size: 2rem;margin:10px;"></i></a>
+        </div>
     </div>
-</div>
-
-Check out Fiona's social links:
-
-<div class="col-md-6">
-    <div class="row">
-        <a href="https://www.linkedin.com/in/fwhittington/"><i class="fab fa-linkedin-in" style="font-size: 2rem;margin:10px;"></i></a>
-        <a href="https://twitter.com/MLHacks"><i class="fab fa-twitter" style="font-size: 2rem;margin:10px;"></i></a>
+    <div class="col-md-6">
+        Check out Fiona's social links:
+        <div class="row">
+            <a href="https://www.linkedin.com/in/fwhittington/"><i class="fab fa-linkedin-in" style="font-size: 2rem;margin:10px;"></i></a>
+            <a href="https://twitter.com/MLHacks"><i class="fab fa-twitter" style="font-size: 2rem;margin:10px;"></i></a>
+        </div>
     </div>
 </div>
 
