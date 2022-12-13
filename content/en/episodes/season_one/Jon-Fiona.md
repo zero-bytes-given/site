@@ -36,7 +36,7 @@ Jon & Fiona from Major League Hacking share with us their stories of working in 
 ---
 
 <a href="https://mlh.io">
-    <img src="/images/guests/logo-MLH.png" width="75%">
+    <img src="/images/guests/logo-MLH.png">
 </a>
 
 ---
